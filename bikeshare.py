@@ -188,6 +188,13 @@ def main():
 if __name__ == "__main__":
 	main()
 
+<<<<<<< .merge_file_a09484
 #Additional change 1 to refactoring
 
 #Additional change 2 to refactoring
+=======
+
+#Added change 1
+
+#Added change 2
+>>>>>>> .merge_file_a07108
