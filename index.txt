@@ -11,3 +11,5 @@
     <script src="js/app.js"></script>
 </body>
 </html>
+
+#ignored the csv files using .gitignore
