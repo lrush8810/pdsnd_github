@@ -12,4 +12,4 @@
 </body>
 </html>
 
-#Adding changes to documention
+#Adding changes to documentation
